@@ -1,0 +1,22 @@
+body {
+    background-color: lightblue;
+    margin: 2em;
+  }
+
+header {
+    background-color: aqua;
+    text-align: center;
+    padding: 1em;
+
+}
+
+  h1 {
+    color: white;
+    text-align: center;
+    font-size: 10em;
+  }
+
+  p {
+    font-family: verdana;
+    font-size: 1em;
+  }
