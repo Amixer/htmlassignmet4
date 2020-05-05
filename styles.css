@@ -1,3 +1,12 @@
+* {
+  box-sizing: border-box;
+}
+
+header, nav, main, footer, body {
+  display: block;
+  font-family: 'Dosis', sans-serif;
+}
+
 body {
     background-color: lightblue;
     margin: 2em;
@@ -11,7 +20,7 @@ header {
 }
 
   h1 {
-    color: white;
+    color: gray;
     text-align: center;
     font-size: 10em;
   }
